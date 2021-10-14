@@ -2,11 +2,11 @@
 
 | Student | Facilitator | Complete |
 | ------- | :---------: | :------: |
-| Angus |   Ahamed        |          |
-| Ben |       Ahamed         |          |
-| Crystal |  Ahamed               |          |
-| Goretti |  Ahamed            |          |
-| James |     Ahamed          |          |
+| Angus |   Ahmad        |          |
+| Ben |       Ahmad         |          |
+| Crystal |  Ahmad               |          |
+| Goretti |  Ahmad            |          |
+| James |     Ahmad          |          |
 | Joshua |    Prue            |          |
 | Julianne |  Prue             |          |
 | Lauren |    Prue            |      |
