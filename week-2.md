@@ -1,4 +1,4 @@
-# Week 6
+# Week 2
 
 | Student | Facilitator | Complete |
 | ------- | :---------: | :------: |
