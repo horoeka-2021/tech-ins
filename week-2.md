@@ -2,7 +2,7 @@
 
 | Student | Facilitator | Complete |
 | ------- | :---------: | :------: |
-| Angus |   Ahmad        |          |
+| Angus |   Ahmad        |       ✔️   |
 | Ben |       Ahmad         |          |
 | Crystal |  Ahmad               |          |
 | Goretti |  Ahmad            |          |
