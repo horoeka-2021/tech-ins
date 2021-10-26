@@ -3,8 +3,8 @@
 | Student | Facilitator | Complete |
 | ------- | :---------: | :------: |
 | Angus |   Ahmad        |       ✔️   |
-| Ben |       Ahmad         |          |
-| Crystal |  Ahmad               |          |
+| Ben |       Ahmad         |    ✔️      |
+| Crystal |  Ahmad               |  ✔️        |
 | Goretti |  Ahmad            |          |
 | James |     Ahmad          |          |
 | Joshua |    Prue            |          |
