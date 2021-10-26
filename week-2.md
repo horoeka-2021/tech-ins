@@ -7,11 +7,11 @@
 | Crystal |  Ahmad               |  ✔️        |
 | Goretti |  Ahmad            |          |
 | James |     Ahmad          |          |
-| Joshua |    Prue            |          |
-| Julianne |  Prue             |          |
-| Lauren |    Prue            |      |
-| Nathan |    Prue            |      |
-| Nicky |     Prue           |      |
+| Joshua |    Prue            |    ✔️      |
+| Julianne |  Prue             |   ✔️       |
+| Lauren |    Prue            |   ✔️   |
+| Nathan |    Prue            |   ✔️   |
+| Nicky |     Prue           |  ✔️    |
 | Rav |       Eleanor         |       |
 | Sean |      Eleanor          |✔️       |
 | Seshan |  Eleanor              |✔️       |
