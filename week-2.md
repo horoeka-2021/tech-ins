@@ -13,9 +13,9 @@
 | Nathan |    Prue            |      |
 | Nicky |     Prue           |      |
 | Rav |       Eleanor         |       |
-| Sean |      Eleanor          |       |
-| Seshan |  Eleanor              |       |
-| Tane |     Eleanor           |       |
+| Sean |      Eleanor          |✔️       |
+| Seshan |  Eleanor              |✔️       |
+| Tane |     Eleanor           |✔️       |
 | Tommy |     Jared           |     |
 | Troy |      Jared          |     |
 | Vimal |     Jared           |     |
