@@ -5,8 +5,8 @@
 | Angus |   Ahmad        |       ✔️   |
 | Ben |       Ahmad         |    ✔️      |
 | Crystal |  Ahmad               |  ✔️        |
-| Goretti |  Ahmad            |          |
-| James |     Ahmad          |          |
+| Goretti |  Ahmad            |     ✔️     |
+| James |     Ahmad          |      ✔️    |
 | Joshua |    Prue            |    ✔️      |
 | Julianne |  Prue             |   ✔️       |
 | Lauren |    Prue            |   ✔️   |
