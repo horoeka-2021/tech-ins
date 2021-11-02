@@ -14,7 +14,7 @@
 | Nicky |    Jared      |✔️|
 | Sean |     Jared      |✔️|
 | Seshan |    Jared     |          | 
-| Tane |   Jared        |          |
+| Tane |   Jared        |  ✔️       |
 | Tommy |   Ahmad       |          |
 | Troy |    Ahmad       |          |
 | Vimal |    Ahmad      |          |
