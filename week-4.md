@@ -11,8 +11,8 @@
 | Julianne |   Eleanor  |          |
 | Lauren |    Eleanor   |          |
 | Nathan |   Eleanor    |          |
-| Nicky |    Jared      |          |
-| Sean |     Jared      |02.05.2021|
+| Nicky |    Jared      |✔️|
+| Sean |     Jared      |✔️|
 | Seshan |    Jared     |          | 
 | Tane |   Jared        |          |
 | Tommy |   Ahmad       |          |
