@@ -12,7 +12,7 @@
 | Lauren |    Eleanor   |          |
 | Nathan |   Eleanor    |          |
 | Nicky |    Jared      |          |
-| Sean |     Jared      |          |
+| Sean |     Jared      |02.05.2021|
 | Seshan |    Jared     |          | 
 | Tane |   Jared        |          |
 | Tommy |   Ahmad       |          |
