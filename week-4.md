@@ -18,6 +18,6 @@
 | Tommy |   Ahmad       |          |
 | Troy |    Ahmad       |          |
 | Vimal |    Ahmad      |          |
-| Ying |     Ahmad      |          |
+| Ying |     Ahmad      |    ✔️      |
 
 <!-- ✔️ or ❌ -->
