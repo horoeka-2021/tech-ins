@@ -13,7 +13,7 @@
 | Nathan |   Eleanor    |          |
 | Nicky |    Jared      |✔️|
 | Sean |     Jared      |✔️|
-| Seshan |    Jared     |          | 
+| Seshan |    Jared     |  ✔️        | 
 | Tane |   Jared        |  ✔️       |
 | Tommy |   Ahmad       |          |
 | Troy |    Ahmad       |          |
