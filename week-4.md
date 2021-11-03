@@ -17,7 +17,7 @@
 | Tane |   Jared        |  ✔️       |
 | Tommy |   Ahmad       |          |
 | Troy |    Ahmad       |          |
-| Vimal |    Ahmad      |          |
+| Vimal |    Ahmad      |  ✔️        |
 | Ying |     Ahmad      |    ✔️      |
 
 <!-- ✔️ or ❌ -->
