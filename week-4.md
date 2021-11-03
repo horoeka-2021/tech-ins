@@ -8,7 +8,7 @@
 | Goretti |   Prue      |          |
 | James |     Prue      |          |
 | Joshua |   Eleanor    |          |
-| Julianne |   Eleanor  |          |
+| Julianne |   Eleanor  |✔️          |
 | Lauren |    Eleanor   |          |
 | Nathan |   Eleanor    |          |
 | Nicky |    Jared      |✔️|
