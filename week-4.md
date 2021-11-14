@@ -2,12 +2,12 @@
 
 | Student | Facilitator | Complete |
 | ------- | :---------: | :------: |
-| Angus |     Prue      |          |
-| Ben |       Prue      |          |
-| Crystal |   Prue      |          |
-| Goretti |   Prue      |          |
-| James |     Prue      |          |
-| Joshua |   Eleanor    |✔️          |
+| Angus |     Prue      |   ✔️        |
+| Ben |       Prue      |   ✔️        |
+| Crystal |   Prue      |    ✔️       |
+| Goretti |   Prue      |    ✔️       |
+| James |     Prue      |     ✔️      |
+| Joshua |   Eleanor    |            |
 | Julianne |   Eleanor  |✔️          |
 | Lauren |    Eleanor   | ✔️         |
 | Nathan |   Eleanor    |  ✔️        |
