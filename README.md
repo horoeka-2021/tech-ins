@@ -1,4 +1,4 @@
-# Tech-in roster for Pohutukawa 2021
+# Tech-in roster for Horoeka 2021
 
 The purpose of tech-ins:
 - They help staff check-in with how you're doing technically.
