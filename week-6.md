@@ -2,23 +2,22 @@
 
 | Student | Facilitator | Complete |
 | ------- | :---------: | :------: |
-| Angus |                |          |
-| Ben |                |          |
-| Crystal |                 |          |
-| Goretti |              |          |
-| James |               |          |
-| Joshua |                |          |
-| Julianne |               |          |
-| Lauren |                |      |
-| Nathan |                |      |
-| Nicky |                |      |
-| Rav |                |       |
-| Sean |                |       |
-| Seshan |                |       |
-| Tane |                |       |
-| Tommy |                |     |
-| Troy |                |     |
-| Vimal |                |     |
-| Ying |                |     |
+| Angus |      Eleanor         |          |
+| Ben |       Eleanor         |          |
+| Crystal |   Eleanor              |          |
+| Goretti |     Eleanor         |          |
+| James |     Jared          |          |
+| Joshua |     Jared           |          |
+| Julianne |     Jared          |          |
+| Lauren |      Jared          |      |
+| Nathan |    Ahmad            |      |
+| Nicky |     Ahmad           |      |
+| Sean |      Ahmad          |       |
+| Seshan |    Ahmad            |       |
+| Tane |      Prue          |       |
+| Tommy |     Prue           |     |
+| Troy |     Prue           |     |
+| Vimal |    Prue            |     |
+| Ying |     Prue           |     |
 
 <!-- ✔️ or ❌ -->
