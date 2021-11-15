@@ -7,7 +7,7 @@
 | Crystal |   Prue      |    ✔️       |
 | Goretti |   Prue      |    ✔️       |
 | James |     Prue      |     ✔️      |
-| Joshua |   Eleanor    |            |
+| Joshua |   Eleanor    |  ✔️          |
 | Julianne |   Eleanor  |✔️          |
 | Lauren |    Eleanor   | ✔️         |
 | Nathan |   Eleanor    |  ✔️        |
