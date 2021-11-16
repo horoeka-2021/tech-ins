@@ -18,6 +18,6 @@
 | Tommy |     Prue           |     |
 | Troy |     Prue           |     |
 | Vimal |    Prue            |     |
-| Ying |     Prue           |     |
+| Ying |     Prue           |  ✔️    |
 
 <!-- ✔️ or ❌ -->
