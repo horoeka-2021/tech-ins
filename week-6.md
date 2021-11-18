@@ -14,10 +14,10 @@
 | Nicky |     Ahmad           |      |
 | Sean |      Ahmad          |       |
 | Seshan |    Ahmad            |       |
-| Tane |      Prue          |       |
-| Tommy |     Prue           |     |
-| Troy |     Prue           |     |
-| Vimal |    Prue            |     |
+| Tane |      Prue          |    ✔️   |
+| Tommy |     Prue           |  ✔️   |
+| Troy |     Prue           |✔️     |
+| Vimal |    Prue            |  ✔️   |
 | Ying |     Prue           |  ✔️    |
 
 <!-- ✔️ or ❌ -->
