@@ -10,7 +10,7 @@
 | Joshua |     Jared           |          |
 | Julianne |     Jared          |          |
 | Lauren |      Jared          |      |
-| Nathan |    Ahmad            |      |
+| Nathan |    Ahmad            |  ✔️    |
 | Nicky |     Ahmad           |      |
 | Sean |      Ahmad          |       |
 | Seshan |    Ahmad            |       |
