@@ -7,9 +7,9 @@
 | Crystal |   Eleanor              |          |
 | Goretti |     Eleanor         |          |
 | James |     Jared          |          |
-| Joshua |     Jared           |          |
+| Joshua |     Jared           |      ✔️    |
 | Julianne |     Jared          |          |
-| Lauren |      Jared          |      |
+| Lauren |      Jared          |    ✔️  |
 | Nathan |    Ahmad            |  ✔️    |
 | Nicky |     Ahmad           |      |
 | Sean |      Ahmad          |   ✔️    |
