@@ -12,7 +12,7 @@
 | Lauren |      Jared          |      |
 | Nathan |    Ahmad            |  ✔️    |
 | Nicky |     Ahmad           |      |
-| Sean |      Ahmad          |       |
+| Sean |      Ahmad          |   ✔️    |
 | Seshan |    Ahmad            |       |
 | Tane |      Prue          |    ✔️   |
 | Tommy |     Prue           |  ✔️   |
