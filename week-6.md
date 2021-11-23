@@ -5,7 +5,7 @@
 | Angus |      Eleanor         |          |
 | Ben |       Eleanor         |          |
 | Crystal |   Eleanor              |          |
-| Goretti |     Eleanor         |          |
+| Goretti |     Eleanor         |  ✔️        |
 | James |     Jared          |          |
 | Joshua |     Jared           |      ✔️    |
 | Julianne |     Jared          |          |
