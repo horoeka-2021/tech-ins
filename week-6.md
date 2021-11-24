@@ -3,8 +3,8 @@
 | Student | Facilitator | Complete |
 | ------- | :---------: | :------: |
 | Angus |      Eleanor         |✔️         |
-| Ben |       Eleanor         |          |
-| Crystal |   Eleanor              |          |
+| Ben |       Eleanor         |  ✔️        |
+| Crystal |   Eleanor              |   ✔️       |
 | Goretti |     Eleanor         |  ✔️        |
 | James |     Jared          |          |
 | Joshua |     Jared           |      ✔️    |
