@@ -2,7 +2,7 @@
 
 | Student | Facilitator | Complete |
 | ------- | :---------: | :------: |
-| Angus |      Eleanor         |          |
+| Angus |      Eleanor         |✔️         |
 | Ben |       Eleanor         |          |
 | Crystal |   Eleanor              |          |
 | Goretti |     Eleanor         |  ✔️        |
